@@ -104,18 +104,4 @@ npm start
 <hr />
 <br />
 
-## **Author**
-
-- **Portfolio** - [Aman Singh](https://amansingh.netlify.app)
-- **Twitter** - [@aman11s](https://twitter.com/aman11s)
-- **LinkedIn** - [aman11s](https://www.linkedin.com/in/aman11s)
-
-<hr />
-<br />
-
-### **Live project link:** [Click here](https://fitmart.vercel.app)
-
-<hr />
-<br />
-
 ### If you like this repository please give it a ⭐ in the top right corner. 😊
